@@ -1,0 +1,13 @@
+D:\C#\SoftSkills\MMF.StudentLab.Task1\Comparer_test\bin\Debug\Comparer_test.dll
+D:\C#\SoftSkills\MMF.StudentLab.Task1\Comparer_test\bin\Debug\Comparer_test.pdb
+D:\C#\SoftSkills\MMF.StudentLab.Task1\Comparer_test\bin\Debug\Comparer.dll
+D:\C#\SoftSkills\MMF.StudentLab.Task1\Comparer_test\bin\Debug\nunit.framework.dll
+D:\C#\SoftSkills\MMF.StudentLab.Task1\Comparer_test\bin\Debug\WorkToArray.dll
+D:\C#\SoftSkills\MMF.StudentLab.Task1\Comparer_test\bin\Debug\Comparer.pdb
+D:\C#\SoftSkills\MMF.StudentLab.Task1\Comparer_test\bin\Debug\nunit.framework.xml
+D:\C#\SoftSkills\MMF.StudentLab.Task1\Comparer_test\bin\Debug\WorkToArray.pdb
+D:\C#\SoftSkills\MMF.StudentLab.Task1\Comparer_test\obj\Debug\Comparer_test.csprojAssemblyReference.cache
+D:\C#\SoftSkills\MMF.StudentLab.Task1\Comparer_test\obj\Debug\Comparer_test.csproj.CoreCompileInputs.cache
+D:\C#\SoftSkills\MMF.StudentLab.Task1\Comparer_test\obj\Debug\Comparer_test.csproj.CopyComplete
+D:\C#\SoftSkills\MMF.StudentLab.Task1\Comparer_test\obj\Debug\Comparer_test.dll
+D:\C#\SoftSkills\MMF.StudentLab.Task1\Comparer_test\obj\Debug\Comparer_test.pdb

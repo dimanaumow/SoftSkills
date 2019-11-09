@@ -1,0 +1,9 @@
+D:\C#\SoftSkills\MMF.StudentLab.Task1\Comparer\bin\Debug\Comparer.dll
+D:\C#\SoftSkills\MMF.StudentLab.Task1\Comparer\bin\Debug\Comparer.pdb
+D:\C#\SoftSkills\MMF.StudentLab.Task1\Comparer\bin\Debug\WorkToArray.dll
+D:\C#\SoftSkills\MMF.StudentLab.Task1\Comparer\bin\Debug\WorkToArray.pdb
+D:\C#\SoftSkills\MMF.StudentLab.Task1\Comparer\obj\Debug\Comparer.csprojAssemblyReference.cache
+D:\C#\SoftSkills\MMF.StudentLab.Task1\Comparer\obj\Debug\Comparer.csproj.CoreCompileInputs.cache
+D:\C#\SoftSkills\MMF.StudentLab.Task1\Comparer\obj\Debug\Comparer.csproj.CopyComplete
+D:\C#\SoftSkills\MMF.StudentLab.Task1\Comparer\obj\Debug\Comparer.dll
+D:\C#\SoftSkills\MMF.StudentLab.Task1\Comparer\obj\Debug\Comparer.pdb

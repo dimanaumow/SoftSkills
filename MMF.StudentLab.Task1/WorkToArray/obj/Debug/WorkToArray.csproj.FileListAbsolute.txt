@@ -1,0 +1,6 @@
+D:\C#\SoftSkills\MMF.StudentLab.Task1\WorkToArray\obj\Debug\WorkToArray.csprojAssemblyReference.cache
+D:\C#\SoftSkills\MMF.StudentLab.Task1\WorkToArray\obj\Debug\WorkToArray.csproj.CoreCompileInputs.cache
+D:\C#\SoftSkills\MMF.StudentLab.Task1\WorkToArray\bin\Debug\WorkToArray.dll
+D:\C#\SoftSkills\MMF.StudentLab.Task1\WorkToArray\bin\Debug\WorkToArray.pdb
+D:\C#\SoftSkills\MMF.StudentLab.Task1\WorkToArray\obj\Debug\WorkToArray.dll
+D:\C#\SoftSkills\MMF.StudentLab.Task1\WorkToArray\obj\Debug\WorkToArray.pdb
