@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Sila\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Sila\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Observer_WeatherStation.-1472624693.00" t="ExcludeRecursive" />
+    <e p="D:\C#\SoftSkills\Patterns\Observer_WeatherStation" t="IncludeFlat">
+      <e p="Observer_WeatherStation.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="WeatherObserverClient" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConsoleClient.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="WeatherObserverClient.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="WeatherStation" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Observer" t="Include">
+          <e p="CurrentConditionReport.cs" t="Include" />
+          <e p="IDisplayData.cs" t="Include" />
+          <e p="IObserver.cs" t="Include" />
+          <e p="StatisticReport.cs" t="Include" />
+        </e>
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Subject" t="Include">
+          <e p="ISubject.cs" t="Include" />
+          <e p="WeatherData.cs" t="Include" />
+        </e>
+        <e p="WeatherStation.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

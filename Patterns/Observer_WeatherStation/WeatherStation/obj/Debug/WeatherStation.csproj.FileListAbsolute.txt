@@ -1,0 +1,6 @@
+D:\C#\SoftSkills\Patterns\Observer_WeatherStation\WeatherStation\obj\Debug\WeatherStation.csprojAssemblyReference.cache
+D:\C#\SoftSkills\Patterns\Observer_WeatherStation\WeatherStation\obj\Debug\WeatherStation.csproj.CoreCompileInputs.cache
+D:\C#\SoftSkills\Patterns\Observer_WeatherStation\WeatherStation\bin\Debug\WeatherStation.dll
+D:\C#\SoftSkills\Patterns\Observer_WeatherStation\WeatherStation\bin\Debug\WeatherStation.pdb
+D:\C#\SoftSkills\Patterns\Observer_WeatherStation\WeatherStation\obj\Debug\WeatherStation.dll
+D:\C#\SoftSkills\Patterns\Observer_WeatherStation\WeatherStation\obj\Debug\WeatherStation.pdb

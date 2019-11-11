@@ -1,0 +1,9 @@
+D:\C#\SoftSkills\Patterns\Observer_WeatherStation\WeatherObserverClient\bin\Debug\WeatherObserverClient.exe
+D:\C#\SoftSkills\Patterns\Observer_WeatherStation\WeatherObserverClient\bin\Debug\WeatherObserverClient.pdb
+D:\C#\SoftSkills\Patterns\Observer_WeatherStation\WeatherObserverClient\obj\Debug\WeatherObserverClient.csprojAssemblyReference.cache
+D:\C#\SoftSkills\Patterns\Observer_WeatherStation\WeatherObserverClient\obj\Debug\WeatherObserverClient.csproj.CoreCompileInputs.cache
+D:\C#\SoftSkills\Patterns\Observer_WeatherStation\WeatherObserverClient\obj\Debug\WeatherObserverClient.exe
+D:\C#\SoftSkills\Patterns\Observer_WeatherStation\WeatherObserverClient\obj\Debug\WeatherObserverClient.pdb
+D:\C#\SoftSkills\Patterns\Observer_WeatherStation\WeatherObserverClient\bin\Debug\WeatherStation.dll
+D:\C#\SoftSkills\Patterns\Observer_WeatherStation\WeatherObserverClient\bin\Debug\WeatherStation.pdb
+D:\C#\SoftSkills\Patterns\Observer_WeatherStation\WeatherObserverClient\obj\Debug\WeatherObserverClient.csproj.CopyComplete
