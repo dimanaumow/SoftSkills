@@ -1,0 +1,6 @@
+D:\C#\SoftSkills\Patterns\MVC_WeatherStantion\UserApplication\bin\Debug\UserApplication.exe
+D:\C#\SoftSkills\Patterns\MVC_WeatherStantion\UserApplication\bin\Debug\UserApplication.pdb
+D:\C#\SoftSkills\Patterns\MVC_WeatherStantion\UserApplication\obj\Debug\UserApplication.csprojAssemblyReference.cache
+D:\C#\SoftSkills\Patterns\MVC_WeatherStantion\UserApplication\obj\Debug\UserApplication.csproj.CoreCompileInputs.cache
+D:\C#\SoftSkills\Patterns\MVC_WeatherStantion\UserApplication\obj\Debug\UserApplication.exe
+D:\C#\SoftSkills\Patterns\MVC_WeatherStantion\UserApplication\obj\Debug\UserApplication.pdb

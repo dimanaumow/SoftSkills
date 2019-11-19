@@ -1,0 +1,6 @@
+D:\C#\SoftSkills\Patterns\MVC_WeatherStantion\MVC_Library\obj\Debug\MVC_Library.csprojAssemblyReference.cache
+D:\C#\SoftSkills\Patterns\MVC_WeatherStantion\MVC_Library\obj\Debug\MVC_Library.csproj.CoreCompileInputs.cache
+D:\C#\SoftSkills\Patterns\MVC_WeatherStantion\MVC_Library\bin\Debug\MVC_Library.dll
+D:\C#\SoftSkills\Patterns\MVC_WeatherStantion\MVC_Library\bin\Debug\MVC_Library.pdb
+D:\C#\SoftSkills\Patterns\MVC_WeatherStantion\MVC_Library\obj\Debug\MVC_Library.dll
+D:\C#\SoftSkills\Patterns\MVC_WeatherStantion\MVC_Library\obj\Debug\MVC_Library.pdb
