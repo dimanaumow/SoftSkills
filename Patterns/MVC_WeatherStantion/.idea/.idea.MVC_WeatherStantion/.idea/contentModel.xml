@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Sila\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Sila\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_MVC_WeatherStantion.961233307.00" t="ExcludeRecursive" />
+    <e p="D:\C#\SoftSkills\Patterns\MVC_WeatherStantion" t="IncludeFlat">
+      <e p="MVC_Library" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controller" t="Include" />
+        <e p="Model" t="Include">
+          <e p="WeatherStation.cs" t="Include" />
+        </e>
+        <e p="MVC_Library.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Veiw" t="Include" />
+      </e>
+      <e p="MVC_WeatherStantion.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="UserApplication" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="UserApplication.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
