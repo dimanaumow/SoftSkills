@@ -14,7 +14,7 @@ namespace MVC_Library.Model
 
         #region Property
 
-        public double Temperature { set; private get; }
+        public double Temperature {set; private get; }
         public double Humidate { set; private get; }
         public double Pressure { set; private get; }
 
