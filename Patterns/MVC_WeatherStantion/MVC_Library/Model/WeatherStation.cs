@@ -3,25 +3,18 @@
 namespace MVC_Library.Model
 {
     
-    public class WeatherStation
+    public sealed class WeatherStation
     {
         #region Fields
+
         private double temperature;
         private double humidate;
         private double pressure;
-
-        #endregion
-
-        #region Property
-
-        public double Temperature {set; private get; }
-        public double Humidate { set; private get; }
-        public double Pressure { set; private get; }
-
+        
         #endregion
         public event EventHandler<WeatherChangedEventArgs> WeatherChanged;
 
-        protected virtual void OnWeatherChanged(object sender, WeatherChangedEventArgs args)
+        private void OnWeatherChanged(object sender, WeatherChangedEventArgs args)
         {
             var temp = WeatherChanged; 
             temp?.Invoke(this, args);
@@ -30,9 +23,10 @@ namespace MVC_Library.Model
 
         public void SetMeasurements(double temperature, double humidate, double pressure)
         {
-            Temperature = temperature;
-            Humidate = humidate;
-            Pressure = pressure; 
+            this.temperature = temperature;
+            this.humidate = humidate;
+            this.pressure = pressure;
+            
             this.OnWeatherChanged(this, new WeatherChangedEventArgs()
             {
                 Temperature = temperature,

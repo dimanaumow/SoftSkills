@@ -42,6 +42,8 @@
     <Compile Include="Model\WeatherStation.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="View\CurrentConditionReport.cs" />
+    <Compile Include="View\IVeiw.cs" />
+    <Compile Include="View\StatistcReport.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
