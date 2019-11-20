@@ -4,3 +4,6 @@ D:\C#\SoftSkills\Patterns\MVC_WeatherStantion\UserApplication\obj\Debug\UserAppl
 D:\C#\SoftSkills\Patterns\MVC_WeatherStantion\UserApplication\obj\Debug\UserApplication.csproj.CoreCompileInputs.cache
 D:\C#\SoftSkills\Patterns\MVC_WeatherStantion\UserApplication\obj\Debug\UserApplication.exe
 D:\C#\SoftSkills\Patterns\MVC_WeatherStantion\UserApplication\obj\Debug\UserApplication.pdb
+D:\C#\SoftSkills\Patterns\MVC_WeatherStantion\UserApplication\bin\Debug\MVC_Library.dll
+D:\C#\SoftSkills\Patterns\MVC_WeatherStantion\UserApplication\bin\Debug\MVC_Library.pdb
+D:\C#\SoftSkills\Patterns\MVC_WeatherStantion\UserApplication\obj\Debug\UserApplication.csproj.CopyComplete

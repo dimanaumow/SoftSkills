@@ -1,5 +1,8 @@
 ﻿using System;
 using System.Data;
+using MVC_Library.Controller;
+using MVC_Library.Model;
+using MVC_Library.View;
 
 namespace UserApplication
 {
@@ -7,9 +10,15 @@ namespace UserApplication
     {
         public static void Main(string[] args)
         {
-            Random rand = new Random();
-            Console.WriteLine(rand.NextDouble());
-            Console.WriteLine(rand.NextDouble() * 100);
+            WeatherStation station = new WeatherStation();
+            WeatherController controller = new WeatherController(station);
+            var ViewCurrentReport = new CurrentConditionReport();
+            station.WeatherChanged += ViewCurrentReport.Report;
+            for (int i = 0; i < 100; i++)
+            {
+                controller.Controller();
+            }
+            
         }
     }
 }

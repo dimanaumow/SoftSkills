@@ -42,6 +42,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="User.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MVC_Library\MVC_Library.csproj">
+      <Project>{e02de62c-bdc8-429b-9d3b-78cc7d0570f1}</Project>
+      <Name>MVC_Library</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
          Other similar extension points exist, see Microsoft.Common.targets.

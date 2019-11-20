@@ -1,4 +1,5 @@
-﻿using MVC_Library.Model;
+﻿using System;
+using MVC_Library.Model;
 
 namespace MVC_Library.View
 {
@@ -8,9 +9,13 @@ namespace MVC_Library.View
         public double Humidate { set; private get; }
         public double Pressure { set; private get; }
 
-        public string Report(object sender, WeatherChangedEventArgs args) =>
-            $"Current temperature: {args.Temperature} " +
-            $"Current humidate: {args.Humidate}" +
-            $"Current pressure: {args.Pressure}"; 
+        public void Report(object sender, WeatherChangedEventArgs args)
+        {
+            Console.WriteLine("Current" 
+             + $"    Temperature {args.Temperature}"
+             + $"    Humidate {args.Humidate}"
+             + $"    Pressure {args.Pressure}");
+           
+        }
     }
 }
