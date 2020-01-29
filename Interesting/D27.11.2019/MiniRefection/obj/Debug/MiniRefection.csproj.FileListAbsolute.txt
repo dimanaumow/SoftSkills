@@ -1,0 +1,6 @@
+D:\C#\SoftSkills\Interesting\D27.11.2019\MiniRefection\bin\Debug\MiniRefection.dll
+D:\C#\SoftSkills\Interesting\D27.11.2019\MiniRefection\bin\Debug\MiniRefection.pdb
+D:\C#\SoftSkills\Interesting\D27.11.2019\MiniRefection\obj\Debug\MiniRefection.csprojAssemblyReference.cache
+D:\C#\SoftSkills\Interesting\D27.11.2019\MiniRefection\obj\Debug\MiniRefection.csproj.CoreCompileInputs.cache
+D:\C#\SoftSkills\Interesting\D27.11.2019\MiniRefection\obj\Debug\MiniRefection.dll
+D:\C#\SoftSkills\Interesting\D27.11.2019\MiniRefection\obj\Debug\MiniRefection.pdb

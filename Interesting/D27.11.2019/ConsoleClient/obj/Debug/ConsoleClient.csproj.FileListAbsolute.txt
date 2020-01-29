@@ -1,0 +1,9 @@
+D:\C#\SoftSkills\Interesting\D27.11.2019\ConsoleClient\bin\Debug\ConsoleClient.exe
+D:\C#\SoftSkills\Interesting\D27.11.2019\ConsoleClient\bin\Debug\ConsoleClient.pdb
+D:\C#\SoftSkills\Interesting\D27.11.2019\ConsoleClient\bin\Debug\MiniRefection.dll
+D:\C#\SoftSkills\Interesting\D27.11.2019\ConsoleClient\bin\Debug\MiniRefection.pdb
+D:\C#\SoftSkills\Interesting\D27.11.2019\ConsoleClient\obj\Debug\ConsoleClient.csprojAssemblyReference.cache
+D:\C#\SoftSkills\Interesting\D27.11.2019\ConsoleClient\obj\Debug\ConsoleClient.csproj.CoreCompileInputs.cache
+D:\C#\SoftSkills\Interesting\D27.11.2019\ConsoleClient\obj\Debug\ConsoleClient.csproj.CopyComplete
+D:\C#\SoftSkills\Interesting\D27.11.2019\ConsoleClient\obj\Debug\ConsoleClient.exe
+D:\C#\SoftSkills\Interesting\D27.11.2019\ConsoleClient\obj\Debug\ConsoleClient.pdb

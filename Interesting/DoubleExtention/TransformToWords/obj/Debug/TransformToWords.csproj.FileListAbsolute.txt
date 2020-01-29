@@ -1,0 +1,5 @@
+D:\C#\SoftSkills\Interesting\DoubleExtention\TransformToWords\bin\Debug\TransformToWords.dll
+D:\C#\SoftSkills\Interesting\DoubleExtention\TransformToWords\bin\Debug\TransformToWords.pdb
+D:\C#\SoftSkills\Interesting\DoubleExtention\TransformToWords\obj\Debug\TransformToWords.csprojAssemblyReference.cache
+D:\C#\SoftSkills\Interesting\DoubleExtention\TransformToWords\obj\Debug\TransformToWords.dll
+D:\C#\SoftSkills\Interesting\DoubleExtention\TransformToWords\obj\Debug\TransformToWords.pdb

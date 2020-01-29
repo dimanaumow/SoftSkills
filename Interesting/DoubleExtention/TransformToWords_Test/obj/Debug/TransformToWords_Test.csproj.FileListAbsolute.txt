@@ -1,0 +1,10 @@
+D:\C#\SoftSkills\Interesting\DoubleExtention\TransformToWords_Test\bin\Debug\TransformToWords_Test.dll
+D:\C#\SoftSkills\Interesting\DoubleExtention\TransformToWords_Test\bin\Debug\TransformToWords_Test.pdb
+D:\C#\SoftSkills\Interesting\DoubleExtention\TransformToWords_Test\bin\Debug\nunit.framework.dll
+D:\C#\SoftSkills\Interesting\DoubleExtention\TransformToWords_Test\bin\Debug\TransformToWords.dll
+D:\C#\SoftSkills\Interesting\DoubleExtention\TransformToWords_Test\bin\Debug\TransformToWords.pdb
+D:\C#\SoftSkills\Interesting\DoubleExtention\TransformToWords_Test\bin\Debug\nunit.framework.xml
+D:\C#\SoftSkills\Interesting\DoubleExtention\TransformToWords_Test\obj\Debug\TransformToWords_Test.csprojAssemblyReference.cache
+D:\C#\SoftSkills\Interesting\DoubleExtention\TransformToWords_Test\obj\Debug\TransformToWords_Test.csproj.CopyComplete
+D:\C#\SoftSkills\Interesting\DoubleExtention\TransformToWords_Test\obj\Debug\TransformToWords_Test.dll
+D:\C#\SoftSkills\Interesting\DoubleExtention\TransformToWords_Test\obj\Debug\TransformToWords_Test.pdb
